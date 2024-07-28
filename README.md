@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-squaree&logo=git&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/github-181717?style=flat-squaree&logo=github&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntelijIDEA%20IDE&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode%20IDE&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <!--<br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
