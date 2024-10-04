@@ -17,7 +17,6 @@
   <h5 align="left">Front
   <br><br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <br>  
   <h5 align="left">Tool
@@ -25,7 +24,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-squaree&logo=git&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/github-181717?style=flat-squaree&logo=github&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntelijIDEA%20IDE&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
   <!--<br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp -->
