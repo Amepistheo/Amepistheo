@@ -4,6 +4,13 @@
 
 <h3 align="left">📚 Tech Stack 📚</h3>
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,mysql,mongodb,aws,docker,nginx" /><br><br>
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle" /><br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions" /><br>
+  </a>
+</p>
+<!-- <p align="left">
   <h5 align="left">Server
   <br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -25,7 +32,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-squaree&logo=github&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntelijIDEA%20IDE&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> -->
   <!--<br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp -->
@@ -49,20 +56,3 @@
 </div>
 
 </div>
-
-
-
-<!--
-**Amepistheo/Amepistheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
